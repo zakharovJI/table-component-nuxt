@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@nuxtjs/svg-sprite": "^0.4.11",
-    "nuxt": "^2.13.0",
+    "nuxt": "^3.4.3",
     "vue-clickaway": "^2.2.2",
     "vuex": "^3.5.1"
   },
